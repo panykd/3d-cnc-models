@@ -1,0 +1,19 @@
+{
+    "parameterSets": {
+        "Large": {
+            "$fn": "50",
+            "$model": "0",
+            "pipeDiameter": "100",
+            "size": "2",
+            "wallThickness": "3"
+        },
+        "design default values": {
+            "$fn": "30",
+            "$model": "0",
+            "pipeDiameter": "42",
+            "size": "2",
+            "wallThickness": "3"
+        }
+    },
+    "fileFormatVersion": "1"
+}
